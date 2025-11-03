@@ -1,14 +1,4 @@
-"""
-Pokemon Legends Z-A Save Editor avec Onglet Pokédex
-Un éditeur de sauvegarde complet avec interface graphique pour Pokemon Legends Z-A
 
-Fonctionnalités:
-- Édition des objets du sac
-- Modification des données du joueur
-- Gestion du Pokédex (Nouvel onglet)
-- Interface graphique intuitive
-- Sauvegarde sécurisée
-"""
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, simpledialog
